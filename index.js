@@ -1,0 +1,1 @@
+require('./kontol.js')
